@@ -1,5 +1,10 @@
 # Digital Learning in the COVID-19 era
 
+## Members
+- [Hieu Pham](https://github.com/hieu1210)
+- [Trang Hoang](https://github.com/trang-hoang24)
+- [Trinh Nguyen](https://github.com/natalie391131)
+
 ## About this project
 - Lam project de lam gi?
 - Project nay la project du thi 1 cuoc thi Kaggle
